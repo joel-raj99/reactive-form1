@@ -1,0 +1,21 @@
+h1{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    top:50px;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+}
+.form-group{
+    width: 600px;
+    margin-left: 350px;
+}
+button{
+    margin-left: 550px;
+    margin-top: 50px;
+}
+label{
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 250px;
+}
